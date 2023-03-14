@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-personajes-rick-and-morty/static/css/main.073c9b0a.css",
+    "main.js": "/api-personajes-rick-and-morty/static/js/main.7e7b6d70.js",
+    "index.html": "/api-personajes-rick-and-morty/index.html",
+    "main.073c9b0a.css.map": "/api-personajes-rick-and-morty/static/css/main.073c9b0a.css.map",
+    "main.7e7b6d70.js.map": "/api-personajes-rick-and-morty/static/js/main.7e7b6d70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7e7b6d70.js"
+  ]
+}
